@@ -14,15 +14,15 @@ A personalized recommendation tool that suggests movies, TV shows, games, music,
 ## Project Structure
 
 <p>mixed-media-recommender/<br>
-├── app/			# Streamlit or Flask app files<br>
-├── data/			# CSVs, datasets, scraped files<br>
-├── docs/			# Images, diagrams, documentation<br>
-├── notebooks/		# Jupyter or RMarkdown notebooks<br>
-├── scripts/		# Python scripts<br>
-├── .gitignore<br>
-├── LICENSE<br>
-├── README.md<br>
-├── requirements.txt</p>
+|-- app/			# Streamlit or Flask app files<br>
+|-- data/			# CSVs, datasets, scraped files<br>
+|-- docs/			# Images, diagrams, documentation<br>
+|-- notebooks/		# Jupyter or RMarkdown notebooks<br>
+|-- scripts/		# Python scripts<br>
+|-- .gitignore<br>
+|-- LICENSE<br>
+|-- README.md<br>
+|-- requirements.txt</p>
 
 ---
 
